@@ -1,2 +1,0 @@
-Name = Amit Yadav
-form No = 231201133
